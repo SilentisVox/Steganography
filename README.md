@@ -1,5 +1,21 @@
 ## **Steganography**
 
+### **Setup**
+
+```powershell
+git clone https://github.com/SilentisVox/Steganography
+cd Steganography
+python steganography.py
+```
+
+### **Usage**
+
+```powershell
+python steganography.py --extract IMAGE.png [--out-file DATA.bin]
+
+python steganography.py --implant IMAGE.png --in-file DATA.bin --out-file NEW.png
+```
+
 ![def](https://github.com/user-attachments/assets/2bd90588-9c33-4a6c-afe5-01cce23d27c8)
 
 ## **Brief Explanation**
