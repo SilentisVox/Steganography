@@ -4,4 +4,4 @@
 
 ### Image Understanding
 
-<p>For every pixel in an image we have 4 values. <b>R</b> - <b>G</b> - <b>B</b> - <b>A</b></p>
+<p>For every pixel in an image we have 4 values. <b>R</b> <b>G</b> <b>B</b> <b>A</b> </p>
