@@ -18,7 +18,7 @@ python steganography.py --implant IMAGE.png --in-file DATA.bin --out-file NEW.pn
 
 ## **Brief Explanation**
 
-![definition](https://github.com/user-attachments/assets/3526e1ad-33ca-4401-bf31-6da4ea6c4ff0)
+![definition](https://github.com/user-attachments/assets/82689ca6-619a-4740-af76-583b8ac62cb1)
 
 ### **What is Steganography?**
 Steganography is the art of hiding information within non-secret data, such as images, audio, or text, in a way that it remains undetectable to the naked eye. Unlike encryption, which scrambles data to make it unreadable without a key, steganography conceals the very existence of the hidden message.
