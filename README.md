@@ -10,7 +10,7 @@ python steganography.py
 
 ### **Usage**
 
-```powershell
+```cmd
 python steganography.py --extract IMAGE.png [--out-file DATA.bin]
 
 python steganography.py --implant IMAGE.png --in-file DATA.bin --out-file NEW.png
