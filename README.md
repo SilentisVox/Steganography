@@ -36,8 +36,3 @@ By encoding secret data into these least significant bits across an image, we ca
    ```
 
 Since these changes are so minor, the image appears unchanged to the human eye while secretly containing data.
-
-### **Why Use Steganography?**
-- **Covert Communication:** Hide messages in everyday images to avoid detection.
-- **Watermarking:** Protect intellectual property by embedding invisible ownership markers.
-- **Data Hiding:** Conceal sensitive information within media files without raising suspicion.
