@@ -2,7 +2,7 @@
 
 ### **Setup**
 
-```powershell
+```cmd
 git clone https://github.com/SilentisVox/Steganography
 cd Steganography
 python steganography.py
